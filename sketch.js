@@ -16,7 +16,7 @@ function preload(){
   jwelleryImg = loadImage("jwell.png");
   swordImg = loadImage("sword.png");
  //write a code to load the image named gameOver.png
- gameOver=loadImage("gameOver.png")
+ gameOverImg=loadImage("gameOver.png")
 }
 
 function setup(){
